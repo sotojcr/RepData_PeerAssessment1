@@ -2,9 +2,11 @@
 
 
 ## Loading and preprocessing the data
-```{r}
+
+```r
 activity <- read.csv("activity.csv")
 ```
+
 
 
 ## What is mean total number of steps taken per day?
