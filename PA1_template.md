@@ -35,7 +35,7 @@ mean(DailySteps$steps)
 ```
 
 
-The **mean** total number of steps taken per day is 10766 steps.
+The mean total number of steps taken per day is 10766 steps.
 
 
 ```r
@@ -48,7 +48,7 @@ median(DailySteps$steps)
 ```
 
 
-The **median** total number of steps taken per day is 
+The median total number of steps taken per day is 
     10765 steps.
 
 ## What is the average daily activity pattern?
